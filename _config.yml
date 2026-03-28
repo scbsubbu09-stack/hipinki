@@ -1,0 +1,9 @@
+# Configuration for GitHub Pages
+
+# Site settings
+url: "https://scbsubbu09-stack.github.io/hipinki/"
+title: "Your Site Title"
+summary: "A brief description of your site."
+
+# Build settings
+theme: minima
